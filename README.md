@@ -1,9 +1,9 @@
-#C Vulnerability Analysis using Joern
+# C Vulnerability Analysis using Joern
 
-####Still in very early development
+#### Still in very early development
 
-##Getting Started:
+## Getting Started:
 
-(1) Edit main.sh path variables
-(2) run main
+* Edit main.sh path variables
+* run main
 
